@@ -95,9 +95,6 @@ python Scripts/main.py
 
 Check the `plots` folder for the generated plots and visualizations.
 
-## External Tools
-
-If any external simulators or tools were used (e.g., GridLAB-D, HOMER), please ensure they are installed and configured properly. However, this project primarily uses Python-based simulation.
 
 ## Contribution Guide
 
