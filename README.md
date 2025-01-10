@@ -35,6 +35,9 @@ The project followed a structured approach:
 - **Docs/**: Contains project documentation.
   - `project_info.pdf`: Detailed project report.
 
+- **presentation/**: Contains project presentation.
+  - `Smart Grid Project for Household Energy Optimization.pptx`: presentation for the project.
+
 - **plots/**: Contains generated visualizations.
   - `hourly_energy_demand.png`: Hourly energy demand plot.
   - `hourly_solar_generation.png`: Hourly solar generation plot.
