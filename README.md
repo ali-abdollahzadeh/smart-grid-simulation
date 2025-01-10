@@ -1,10 +1,8 @@
 # Smart Grid Simulation Project
 
-# Smart Grid Simulation Project
-
 ## Project Overview
 
-This project is part of the ICT4SM course at Politecnico di Torino. It focuses on capacity planning and optimization of photovoltaic (PV) systems and battery storage for a smart grid household energy management system. The goal is to reduce costs, improve energy self-sufficiency, and optimize financial returns through efficient solar energy usage.
+This project is part of the ICT4SM course at Politecnico di Torino. It focusWes on capacity planning and optimization of photovoltaic (PV) systems and battery storage for a smart grid household energy management system. The goal is to reduce costs, improve energy self-sufficiency, and optimize financial returns through efficient solar energy usage.
 
 ## Group Members
 - **Ali Abdollahzadeh** ([@ali-abdollahzadeh](https://github.com/ali-abdollahzadeh))
