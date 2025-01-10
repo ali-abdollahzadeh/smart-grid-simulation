@@ -11,7 +11,7 @@ This project simulates energy demand, solar generation, and battery storage leve
   - `energy_demand.csv`: Energy demand data.
   - `investment_costs.csv`: Cost of PV systems and batteries.
   - `solar_generation.csv`: Solar generation data.
-  
+
 - **processed/**: Folder for processed datasets.
 
 - **Docs/**: Contains project documentation.
@@ -35,33 +35,35 @@ This project simulates energy demand, solar generation, and battery storage leve
 
 - Python 3.9 or higher
 
-### Required Python libraries:
+### Required Python Libraries:
 
-- pandas
-- numpy
-- matplotlib
-- seaborn
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
 
 ## Setup Guide
 
 ### Step 1: Clone the Repository
-
+```bash
 git clone https://github.com/ali-abdollahzadeh/smart-grid-simulation.git
 cd smart-grid-simulation
-
+```
 
 ### Step 2: Install Required Libraries
-
+```bash
 pip install -r requirements.txt
+```
 
-*Note: If a requirements.txt file is not available, manually install the required libraries.*
+*Note: If a `requirements.txt` file is not available, manually install the required libraries:*
+```bash
+pip install pandas numpy matplotlib seaborn
+```
 
 ### Step 3: Run the Simulation
-
-Run the main simulation script to generate the plots and outputs.
-
+```bash
 python Scripts/main.py
-
+```
 
 ### Step 4: View Results
 
@@ -80,10 +82,8 @@ If any external simulators or tools were used (e.g., GridLAB-D, HOMER), please e
 
 ## License
 
-This project is licensed under the MIT License. See LICENSE for more details.
+This project is licensed under the MIT License. See `LICENSE` for more details.
 
 ## Contact
 
 For any questions or issues, please contact Ali Abdollahzadeh at [al.abdollahzadeh@gmail.com].
-
-
